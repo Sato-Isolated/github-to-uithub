@@ -25,7 +25,7 @@
    - [Violentmonkey](https://violentmonkey.github.io/) (Chrome, Firefox)
    - [Greasemonkey](https://addons.mozilla.org/fr/firefox/addon/greasemonkey/) (Firefox)
 
-2. Installez le script en cliquant [ici](github-to-uithub.user.js)
+2. Installez le script en cliquant [ici](https://github.com/Sato-Isolated/github-to-uithub/raw/refs/heads/main/github-to-uithub.user.js)
 
 ### 🇬🇧 English instructions
 
@@ -34,7 +34,7 @@
    - [Violentmonkey](https://violentmonkey.github.io/) (Chrome, Firefox)
    - [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/) (Firefox)
 
-2. Install the script by clicking [here](github-to-uithub.user.js)
+2. Install the script by clicking [here](https://github.com/Sato-Isolated/github-to-uithub/raw/refs/heads/main/github-to-uithub.user.js)
 
 ## Usage / Utilisation
 
