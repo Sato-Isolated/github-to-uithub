@@ -7,9 +7,11 @@
 // @description  Adds a button on GitHub repository pages to access the corresponding Uithub page
 // @description:en  Adds a button on GitHub repository pages to access the corresponding Uithub page
 // @description:fr  Ajoute un bouton sur les pages GitHub pour accéder à la page Uithub correspondante
-// @author       
+// @author       MindLated
 // @match        https://github.com/*/*
 // @grant        none
+// @homepageURL  https://github.com/Sato-Isolated/github-to-uithub
+// @supportURL   https://github.com/Sato-Isolated/github-to-uithub/issues
 // ==/UserScript==
 
 (function() {
