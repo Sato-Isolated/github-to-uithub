@@ -51,7 +51,6 @@
         const containerSelectors = [
             '.pagehead-actions',
             '.file-navigation',
-            '.repository-content'
         ];
 
         let container = null;
@@ -75,12 +74,12 @@
         a.textContent = localization.buttonText;
         a.className = 'btn btn-sm';
         a.title = localization.tooltipText;
-        
+
         // Replace "github.com" with "uithub.com" in the current URL
         const uithubUrl = window.location.href.replace('github.com', 'uithub.com');
         a.href = uithubUrl;
         a.target = '_blank';
-        
+
         li.appendChild(a);
 
         // Add the button in the correct position
